@@ -1,0 +1,141 @@
+
+
+main{
+    width: 100%;
+    height: auto;
+    
+}
+
+.content-all{
+    width: 100%;
+    max-width: 2000px;
+    margin: auto;
+    background: var(--background);
+    margin-top: 70px;
+    
+   
+}
+
+.content-all label{
+    position: fixed;
+    width: 100%;
+    max-width: 1000px;
+    top: 14px;
+    font-size: 20px;
+    left: 50px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.content-all h1{
+    position: fixed;
+    display: block;
+    width: 100%;
+    max-width: 2000px;
+    top: 14px;
+    font-size: 26px;
+    text-align: center;
+    
+    
+}
+
+
+
+header{
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: var(--background);
+    border: 2px solid #EEEEEE ;
+    
+}
+
+
+
+
+
+
+
+.button-class{
+    position: fixed;
+    
+    border: 2px solid #EEEEEE ;
+    color: #000;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    
+    cursor: pointer;
+    top: 10px;
+    border-radius: 3px;
+    
+    height: 30px;
+    
+    line-height: 1rem;
+    
+    margin:10px;
+}
+
+#subs-button{
+    right: 130px;
+    background: #ffff25;
+}
+
+#in-button{
+    right: 10px;
+    background-color:#F5F5F5 ;
+}
+
+
+#check{
+   display: none;
+}
+
+#check:checked ~ .menu{
+    width: 200px;
+    
+    
+}
+
+.menu{
+    position: fixed;
+    width: 0px;
+    height: 50vh;
+    background: var(--background);
+    top: 60px;
+    left: 50px;
+    transition: all 300ms;
+    overflow: hidden;
+}
+
+
+.menu li{
+    list-style: none;
+    padding: 16px;
+    color: #969494;
+    cursor: pointer;
+    transition: all 300ms;
+    display: block;
+    width: 400px;
+    
+    background: var(--background) ;
+    
+    
+}
+
+.menu li:hover{
+    background: #EAE9E9;
+    border: 1px solid #EEEEEE ;
+
+
+}
+
+
+
+
+
+
+
+    

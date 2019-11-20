@@ -1,0 +1,6 @@
+[1117/185017.836:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files\Junemike\Reports\Dump\settings.dat: Acceso denegado. (0x5)
+[1117/185017.838:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1117/185017.839:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files\Junemike\Reports\Dump\settings.dat: Acceso denegado. (0x5)
+[1118/091740.181:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files\Junemike\Reports\Dump\settings.dat: Acceso denegado. (0x5)
+[1118/091740.183:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1118/091740.185:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files\Junemike\Reports\Dump\settings.dat: Acceso denegado. (0x5)
